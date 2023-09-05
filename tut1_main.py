@@ -1,0 +1,25 @@
+print("Hello World")
+print("There are two types of modules in python")
+print("Built in Modules and external Modules")
+print("Pip is helper to install module in python")
+print("REPL means read evaluate print loop")
+print("Anything inside print("") will be printed as output")
+print("5")
+print(5)
+print("Hello Dear",1122)
+print("Lower is Multiplication of 120 and 10")
+print(120*10)
+print("We can use back slash to get down in lower linw like that\  this is code of same line")
+# To write comment we can write # before start of line
+print("Now lower is the method of multi line comment")
+'''
+This is a Multi line comment 
+'''
+print("To write multiline comment we will write ''''''")
+print("To write something in double coats we will use backslash double coat")
+print("This is an example of backslash Double coat \"Hi I am Here\"")
+print("We can print different values in same print like that",6,12,sep="-")
+print("We use sep= to define that different values in print will be seprated by which symbol etc like in upper example we used -")
+print("we use end to specify that by which value etc the print statement should end it comes in end like followig is 1122")
+print("Now this line will have 1122 in end by using end tag",end="1122\n")
+print("Bye")
