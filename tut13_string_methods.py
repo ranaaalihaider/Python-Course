@@ -37,3 +37,18 @@ print(i)
 print(k)
 print(l)
 print(m)
+#to capitalize first letter of any string we can write variable name.capitaliza() this will capitalize the first letter of string
+#it will automatically convert all next characters to lower case
+blogheadinh="introduction to python"
+print(blogheadinh.capitalize())
+test="i Will TESt Capitalize FuNCTiOn In FolLowing PrInTs"
+print(test)
+print(test.capitalize())
+cnt="Now we will learn centre method"
+print(cnt.center(50))
+print(len(cnt))
+print(len(cnt.center(50)))
+str1="Now i will count word Rana in this line so i am typing Rana two times"
+print(str1)
+print(str1.count("Rana"))
+print(str1.endswith("times"))
