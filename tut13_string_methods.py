@@ -130,3 +130,10 @@ str28="This Is A second Example"
 print(str28)
 print(str28.istitle())
 '''False value is return because S of second is small so it can not be title'''
+'''We can also check that our string starts with specific word or not by use of starts with'''
+str29="computer science department SOFTWARE engineer"
+print(str29.startswith('computer'))
+'''Swapcase will change uppercase to lowercase and lowercase to upper case automatically'''
+print(str29.swapcase())
+'''Title function will convert automatically string to title'''
+print(str29.title())
