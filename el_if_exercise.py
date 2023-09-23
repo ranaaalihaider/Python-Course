@@ -1,7 +1,7 @@
 apple=int(input("Enter Apple Price : "))
 budget=int(input("Enter Your Budget : "))
 
- 
+
 balance = (budget-apple)
 budget_limit = budget * (50/100)
 if(balance >= budget_limit):
